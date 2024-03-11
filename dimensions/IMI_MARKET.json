@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"IMI_MARKET",
+	"Hierarchies@Code.links":
+	[
+		"IMI_MARKET.hierarchies/IMI_MARKET.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('IMI_MARKET')/Hierarchies('IMI_MARKET')"
+	}
+}

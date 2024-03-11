@@ -1,0 +1,16 @@
+{
+	"@type":"Hierarchy",
+	"Name":"COM_RATETYPE",
+	"Elements":
+	[
+		{
+			"Name":"AVG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FDM",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

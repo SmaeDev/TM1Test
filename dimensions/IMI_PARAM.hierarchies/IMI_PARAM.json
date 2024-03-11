@@ -1,0 +1,24 @@
+{
+	"@type":"Hierarchy",
+	"Name":"IMI_PARAM",
+	"Elements":
+	[
+		{
+			"Name":"LastActualyear",
+			"Type":"String"
+		},
+		{
+			"Name":"LastActualMonth",
+			"Type":"String"
+		},
+		{
+			"Name":"LastForecastYear",
+			"Type":"String"
+		},
+		{
+			"Name":"LastForecastMonth",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

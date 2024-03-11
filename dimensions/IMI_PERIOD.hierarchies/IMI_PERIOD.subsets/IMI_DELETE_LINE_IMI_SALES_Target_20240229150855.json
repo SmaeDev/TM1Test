@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"IMI_DELETE_LINE_IMI_SALES_Target_20240229150855",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('IMI_PERIOD')/Hierarchies('IMI_PERIOD')/Elements('FY_INPUT')"
+		}
+	]
+}

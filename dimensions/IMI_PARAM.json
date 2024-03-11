@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"IMI_PARAM",
+	"Hierarchies@Code.links":
+	[
+		"IMI_PARAM.hierarchies/IMI_PARAM.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('IMI_PARAM')/Hierarchies('IMI_PARAM')"
+	}
+}

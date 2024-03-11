@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"INDIC_SALES",
+	"Hierarchies@Code.links":
+	[
+		"INDIC_SALES.hierarchies/INDIC_SALES.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('INDIC_SALES')/Hierarchies('INDIC_SALES')"
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"@type":"Hierarchy",
+	"Name":"RPTCURRENCY",
+	"Elements":
+	[
+		{
+			"Name":"LC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EUR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"USD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"INR",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"RPTCURRENCY.subsets/Reporting_Currency.json"
+	]
+}

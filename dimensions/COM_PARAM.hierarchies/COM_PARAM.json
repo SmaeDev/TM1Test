@@ -1,0 +1,24 @@
+{
+	"@type":"Hierarchy",
+	"Name":"COM_PARAM",
+	"Elements":
+	[
+		{
+			"Name":"ODBC_NAME",
+			"Type":"String"
+		},
+		{
+			"Name":"ODBC_USER",
+			"Type":"String"
+		},
+		{
+			"Name":"ODBC_PWD",
+			"Type":"String"
+		},
+		{
+			"Name":"FILEPATH",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

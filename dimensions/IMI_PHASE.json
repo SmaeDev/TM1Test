@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"IMI_PHASE",
+	"Hierarchies@Code.links":
+	[
+		"IMI_PHASE.hierarchies/IMI_PHASE.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('IMI_PHASE')/Hierarchies('IMI_PHASE')"
+	}
+}

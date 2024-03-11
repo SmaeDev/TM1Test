@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"}z_COPIE_DIM",
+	"Expression":"TM1SubsetAll([IMI_SALESPERSON])"
+}

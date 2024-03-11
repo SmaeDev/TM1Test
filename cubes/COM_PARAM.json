@@ -1,0 +1,14 @@
+{
+	"@type":"Cube",
+	"Name":"COM_PARAM",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('COM_PARAM')"
+		},
+		{
+			"@id":"Dimensions('COM_PARAMTYPE')"
+		}
+	],
+	"Views@Code.links":[]
+}

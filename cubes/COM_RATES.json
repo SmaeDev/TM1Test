@@ -1,0 +1,29 @@
+{
+	"@type":"Cube",
+	"Name":"COM_RATES",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('COM_RATEVERSION')"
+		},
+		{
+			"@id":"Dimensions('COM_YEAR')"
+		},
+		{
+			"@id":"Dimensions('COM_PERIOD')"
+		},
+		{
+			"@id":"Dimensions('COM_CURRENCY')"
+		},
+		{
+			"@id":"Dimensions('COM_RPTCURRENCY')"
+		},
+		{
+			"@id":"Dimensions('COM_RATETYPE')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"COM_RATES.views/ViewComRates.json"
+	]
+}

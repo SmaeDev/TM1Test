@@ -1,0 +1,81 @@
+{
+	"@type":"Hierarchy",
+	"Name":"IMI_MARKET",
+	"ElementsSortType":"ByName",
+	"ComponentsSortType":"ByName",
+	"Elements":
+	[
+		{
+			"Name":"IMI Global Industry",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IMI Offroad",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IMI Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IMI Railways",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IMI Strips",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IMI Telecom",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TOTAL_MARKET",
+			"Type":"Consolidated"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"TOTAL_MARKET",
+			"ComponentName":"IMI Global Industry",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_MARKET",
+			"ComponentName":"IMI Offroad",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_MARKET",
+			"ComponentName":"IMI Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_MARKET",
+			"ComponentName":"IMI Railways",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_MARKET",
+			"ComponentName":"IMI Strips",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_MARKET",
+			"ComponentName":"IMI Telecom",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"IMI_MARKET.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229152351.json",
+		"IMI_MARKET.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229153754.json",
+		"IMI_MARKET.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229154004.json",
+		"IMI_MARKET.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229154332.json",
+		"IMI_MARKET.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229155932.json",
+		"IMI_MARKET.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229160138.json",
+		"IMI_MARKET.subsets/Level0.json",
+		"IMI_MARKET.subsets/Tout.json"
+	]
+}

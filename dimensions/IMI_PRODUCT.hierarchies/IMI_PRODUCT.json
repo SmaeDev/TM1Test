@@ -1,0 +1,2261 @@
+{
+	"@type":"Hierarchy",
+	"Name":"IMI_PRODUCT",
+	"ElementsSortType":"ByName",
+	"ComponentsSortType":"ByName",
+	"Elements":
+	[
+		{
+			"Name":"Accessory - Spare parts Li-Ion",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Accessory - Spare parts Ni-Cd",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Accessory - Spare parts Ni-MH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Accessory - Spare parts Service",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Accessory - Spare parts Supercaps",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AFE Cell",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Block battery H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Block battery L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Block battery L ULM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Block battery M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Block battery M ULM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Cabinets",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Certificate of origin",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Chargers",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CKO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CleverWatch",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Compact",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Components Li-Ion",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Components Ni-Cd",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Components Ni-MH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Components Service",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Components Supercaps",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Conditional monitoring",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CPL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CPM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CVD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CVH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DIN Single Cell H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DIN Single Cell L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DIN Single Cell L ULM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DIN Single Cell M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Drip tray (width & length)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EBH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EBL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EBM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ECH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ECL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ECM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EFE Cell",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Electrical inspection test report",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Electrical test report",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Electrodes",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Electrolyte",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ESH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ESL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ESM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ESSU E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ESSU HP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ESSU M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ESSU P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ETH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ETL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ETM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EVOLION 1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EVOLION 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EVOLION 3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Flex'ion",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Flex'ion Accessory",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FOAM/PBE - maintenance accessory",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"G",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HC/HB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HLC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"I-SHIFT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IFLEX E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IFLEX H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IFLEX HP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IFLEX M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IFLEX P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IHE 1000V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IHE 1500V",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IHE 1500V LFP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IM20 +E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IM20 +HP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IM20 +M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IM20 +P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IM20 E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IM20 HP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IM20 M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IM20 P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Installation and commissioning",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Intelli-Connect",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Intensium Home Battery 4 kWh",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Intensium Home Battery 8 kWh",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KPH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KPL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KPM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LC/LB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LCE/LBE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Li-ion - Flex'ion - Gen1/Gen1+",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Li-ion - Flex'ion - Gen2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LI ION Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Logistic Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LSH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LSP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LTO Cell",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LTO HV battery",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LTO LV battery",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Maintenance and testing",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MC/MB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MINI E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MINI H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MINI M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MINI P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MODULION Module",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MRX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MSX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NCA Cell",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NHE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NHM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NHP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ni-Cd cleaning kit",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NMC Cell",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NMC HV battery",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NMC LV battery",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Non-Standard",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Non Recurring Cost Li-Ion",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Non Recurring Cost Ni-Cd",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Non Recurring Cost Ni-MH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Non Recurring Cost Service",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Non Recurring Cost Supercaps",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Not Applicable",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"No Value",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Single cell L, M, H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PBE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PME",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PNE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PP - accessory kit",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PP - electrolyte",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PP - installation accessory",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PP - maintenance accessory",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Primary Lithium",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PV",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RACK E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rack HP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RACK M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RACK P",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Racks",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Recycling",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Refurbishment",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RGPL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RGPM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RGSL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SBH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SBL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SBLE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SBM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SCH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SCL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SCM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SEANERGY Module",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SEH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Seismic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SHE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Signal Systems",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SIL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SIM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Single Cell H",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Single Cell L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Single Cell L ULM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Single Cell M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Single Cell M ULM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLFP Cell",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLFP Modulion A1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLFP Modulion A2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLFP Modulion B1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLFP Modulion B2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SM Metal",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SM Plastic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SMRX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SMRX-F3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SNH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SNL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SNLE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SNM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SPBE - electrolyte",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SPBE - maintenance accessory",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SPH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SPH/XHP/NPH/SPX/XPX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Spill Containment",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SPL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SPL+",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRA HT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRA LT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRM+",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRM+E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRM-F3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRM Metal",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRM Plastic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRX-E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRX-F3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRX Metal",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SRX Plastic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Standard declaration",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Steel",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"STH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"STM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Strips",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SUN+",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SYNERION Module",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Telex 100",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Telex 150",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Telex 180",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Telex 80",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Testing",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TLI",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TLM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TLX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Topping-up",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TOTAL_PRODUCT",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Training",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UP1 L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UP1 M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VHP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VLE SLFP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VLP SLFP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VOM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VO Metal",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VO Plastic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VRNM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VTX 1 L",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VTX 1 LC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VTX 1 M",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VTX 1 MC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VXP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Warranty extension",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Water Filling Station",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XHP",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Accessory - Spare parts Li-Ion",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Accessory - Spare parts Ni-Cd",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Accessory - Spare parts Ni-MH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Accessory - Spare parts Service",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Accessory - Spare parts Supercaps",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"AFE Cell",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Block battery H",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Block battery L",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Block battery L ULM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Block battery M",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Block battery M ULM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Cabinets",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Certificate of origin",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Chargers",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"CKO",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"CleverWatch",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Compact",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Components Li-Ion",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Components Ni-Cd",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Components Ni-MH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Components Service",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Components Supercaps",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Conditional monitoring",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"CPL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"CPM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"CVD",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"CVH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"DIN Single Cell H",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"DIN Single Cell L",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"DIN Single Cell L ULM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"DIN Single Cell M",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Drip tray (width & length)",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"EBH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"EBL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"EBM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"ECH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"ECL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"ECM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"EFE Cell",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Electrical inspection test report",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Electrical test report",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Electrodes",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Electrolyte",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"ESH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"ESL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"ESM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"ESSU E",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"ESSU HP",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"ESSU M",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"ESSU P",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"ETH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"ETL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"ETM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"EVOLION 1",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"EVOLION 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"EVOLION 3",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Flex'ion",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Flex'ion Accessory",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"FOAM/PBE - maintenance accessory",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"G",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"H",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"HC/HB",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"HLC",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"I-SHIFT",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IFLEX E",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IFLEX H",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IFLEX HP",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IFLEX M",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IFLEX P",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IHE 1000V",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IHE 1500V",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IHE 1500V LFP",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IM20 +E",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IM20 +HP",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IM20 +M",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IM20 +P",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IM20 E",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IM20 HP",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IM20 M",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"IM20 P",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Installation and commissioning",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Intelli-Connect",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Intensium Home Battery 4 kWh",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Intensium Home Battery 8 kWh",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"KPH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"KPL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"KPM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"L",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"LC/LB",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"LCE/LBE",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"LD",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Li-ion - Flex'ion - Gen1/Gen1+",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Li-ion - Flex'ion - Gen2",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"LI ION Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"LM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"LO",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Logistic Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"LS",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"LSH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"LSP",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"LTO Cell",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"LTO HV battery",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"LTO LV battery",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"M",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Maintenance and testing",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"MC/MB",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"MH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"MINI E",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"MINI H",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"MINI M",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"MINI P",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"MODULION Module",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"MP",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"MRX",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"MSX",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"NCA Cell",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"NHE",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"NHM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"NHP",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Ni-Cd cleaning kit",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"NMC Cell",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"NMC HV battery",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"NMC LV battery",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Non-Standard",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Non Recurring Cost Li-Ion",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Non Recurring Cost Ni-Cd",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Non Recurring Cost Ni-MH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Non Recurring Cost Service",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Non Recurring Cost Supercaps",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Not Applicable",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"No Value",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Other Single cell L, M, H",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"PBE",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"PME",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"PNE",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"PP - accessory kit",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"PP - electrolyte",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"PP - installation accessory",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"PP - maintenance accessory",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Primary Lithium",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"PV",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"RACK E",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Rack HP",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"RACK M",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"RACK P",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Racks",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Recycling",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Refurbishment",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"RGPL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"RGPM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"RGSL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SBH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SBL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SBLE",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SBM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SCH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SCL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SCM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SEANERGY Module",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SEH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Seismic",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SHE",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Signal Systems",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SIL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SIM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Single Cell H",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Single Cell L",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Single Cell L ULM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Single Cell M",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Single Cell M ULM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SLFP Cell",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SLFP Modulion A1",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SLFP Modulion A2",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SLFP Modulion B1",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SLFP Modulion B2",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SLM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SM Metal",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SM Plastic",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SMRX",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SMRX-F3",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SNH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SNL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SNLE",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SNM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SPBE - electrolyte",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SPBE - maintenance accessory",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SPH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SPH/XHP/NPH/SPX/XPX",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Spill Containment",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SPL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SPL+",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SRA",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SRA HT",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SRA LT",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SRM+",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SRM+E",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SRM-F3",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SRM Metal",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SRM Plastic",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SRX",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SRX-E",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SRX-F3",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SRX Metal",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SRX Plastic",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Standard declaration",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Steel",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"STH",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"STM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Strips",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SUN+",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"SYNERION Module",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Telex 100",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Telex 150",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Telex 180",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Telex 80",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Testing",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"TL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"TLI",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"TLM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"TLX",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Topping-up",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Training",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"UP1 L",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"UP1 M",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VHP",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VL",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VLE SLFP",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VLP SLFP",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VN",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VOM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VO Metal",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VO Plastic",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VP",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VR",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VRNM",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VTX 1 L",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VTX 1 LC",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VTX 1 M",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VTX 1 MC",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"VXP",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Warranty extension",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"Water Filling Station",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_PRODUCT",
+			"ComponentName":"XHP",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229152351.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229153754.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229154004.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229154332.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229155932.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229160138.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229174514.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229174542.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229174605.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_2024_m01152700.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_2024_m01152758.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_2024_m01160221.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_2024_m01160331.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_2024_m01172353.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_2024_m01172548.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_2024_m01173141.json",
+		"IMI_PRODUCT.subsets/IMI_DELETE_LINE_IMI_SALES_Target_2024_m01173814.json",
+		"IMI_PRODUCT.subsets/Level0.json",
+		"IMI_PRODUCT.subsets/Tout.json"
+	]
+}

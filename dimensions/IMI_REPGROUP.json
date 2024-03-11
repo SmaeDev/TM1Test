@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"IMI_REPGROUP",
+	"Hierarchies@Code.links":
+	[
+		"IMI_REPGROUP.hierarchies/IMI_REPGROUP.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('IMI_REPGROUP')/Hierarchies('IMI_REPGROUP')"
+	}
+}

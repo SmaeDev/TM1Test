@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Reporting_Currency",
+	"Expression":"{EXCEPT([IMI_RPTCURRENCY].[IMI_RPTCURRENCY].MEMBERS , {[IMI_RPTCURRENCY].[IMI_RPTCURRENCY].[TC]})}"
+}

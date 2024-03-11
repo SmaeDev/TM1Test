@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Level0_DESC",
+	"Expression":"{ORDER(TM1FILTERBYLEVEL(TM1SUBSETALL([YEAR].[YEAR]) , 0) , [YEAR].[YEAR].CURRENTMEMBER.PROPERTIES(\"MEMBER_CAPTION\") , BDESC)}"
+}

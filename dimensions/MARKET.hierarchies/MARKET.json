@@ -1,0 +1,64 @@
+{
+	"@type":"Hierarchy",
+	"Name":"MARKET",
+	"Elements":
+	[
+		{
+			"Name":"TOTAL_MARKET",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"IMI Offroad",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IMI Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IMI Railways",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IMI Strips",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IMI Telecom",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"TOTAL_MARKET",
+			"ComponentName":"IMI Offroad",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_MARKET",
+			"ComponentName":"IMI Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_MARKET",
+			"ComponentName":"IMI Railways",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_MARKET",
+			"ComponentName":"IMI Strips",
+			"Weight":1
+		},
+		{
+			"ParentName":"TOTAL_MARKET",
+			"ComponentName":"IMI Telecom",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"MARKET.subsets/Level0.json",
+		"MARKET.subsets/tout.json"
+	]
+}

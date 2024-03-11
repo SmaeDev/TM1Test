@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"COM_RATEVERSION",
+	"Hierarchies@Code.links":
+	[
+		"COM_RATEVERSION.hierarchies/COM_RATEVERSION.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('COM_RATEVERSION')/Hierarchies('COM_RATEVERSION')"
+	}
+}

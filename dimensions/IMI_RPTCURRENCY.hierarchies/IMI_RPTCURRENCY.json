@@ -1,0 +1,34 @@
+{
+	"@type":"Hierarchy",
+	"Name":"IMI_RPTCURRENCY",
+	"Elements":
+	[
+		{
+			"Name":"TC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EUR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"USD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"INR",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"IMI_RPTCURRENCY.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229150855.json",
+		"IMI_RPTCURRENCY.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229152351.json",
+		"IMI_RPTCURRENCY.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229153754.json",
+		"IMI_RPTCURRENCY.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229154004.json",
+		"IMI_RPTCURRENCY.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229154332.json",
+		"IMI_RPTCURRENCY.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229155932.json",
+		"IMI_RPTCURRENCY.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229160138.json",
+		"IMI_RPTCURRENCY.subsets/Reporting_Currency.json"
+	]
+}

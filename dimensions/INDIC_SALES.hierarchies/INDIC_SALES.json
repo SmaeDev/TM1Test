@@ -1,0 +1,28 @@
+{
+	"@type":"Hierarchy",
+	"Name":"INDIC_SALES",
+	"Elements":
+	[
+		{
+			"Name":"AMOUNT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UNIT_PRICE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TECH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AMOUNTprev",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Amountprev2",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":[]
+}

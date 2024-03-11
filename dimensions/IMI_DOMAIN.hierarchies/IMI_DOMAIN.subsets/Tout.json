@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Tout",
+	"Expression":"{[IMI_DOMAIN].[IMI_DOMAIN].MEMBERS}"
+}

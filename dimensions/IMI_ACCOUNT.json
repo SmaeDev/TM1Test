@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"IMI_ACCOUNT",
+	"Hierarchies@Code.links":
+	[
+		"IMI_ACCOUNT.hierarchies/IMI_ACCOUNT.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('IMI_ACCOUNT')/Hierarchies('IMI_ACCOUNT')"
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"@type":"Cube",
+	"Name":"IMI_CALENDAR",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('IMI_PHASE')"
+		},
+		{
+			"@id":"Dimensions('IMI_VERSION')"
+		},
+		{
+			"@id":"Dimensions('COM_YEAR')"
+		},
+		{
+			"@id":"Dimensions('IMI_SALES_MEASURE')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"IMI_CALENDAR.views/ViewCalendar.json"
+	]
+}

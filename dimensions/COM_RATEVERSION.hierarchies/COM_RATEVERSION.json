@@ -1,0 +1,20 @@
+{
+	"@type":"Hierarchy",
+	"Name":"COM_RATEVERSION",
+	"Elements":
+	[
+		{
+			"Name":"Actual",
+			"Type":"String"
+		},
+		{
+			"Name":"Budget",
+			"Type":"String"
+		},
+		{
+			"Name":"Forecast",
+			"Type":"String"
+		}
+	],
+	"Subsets@Code.links":[]
+}

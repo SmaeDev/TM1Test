@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"IMI_PRODUCT",
+	"Hierarchies@Code.links":
+	[
+		"IMI_PRODUCT.hierarchies/IMI_PRODUCT.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('IMI_PRODUCT')/Hierarchies('IMI_PRODUCT')"
+	}
+}

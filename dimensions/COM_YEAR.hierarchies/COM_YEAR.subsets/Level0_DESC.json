@@ -1,0 +1,19 @@
+{
+	"@type":"Subset",
+	"Name":"Level0_DESC",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('COM_YEAR')/Hierarchies('COM_YEAR')/Elements('2022')"
+		},
+		{
+			"@id":"Dimensions('COM_YEAR')/Hierarchies('COM_YEAR')/Elements('2023')"
+		},
+		{
+			"@id":"Dimensions('COM_YEAR')/Hierarchies('COM_YEAR')/Elements('2024')"
+		},
+		{
+			"@id":"Dimensions('COM_YEAR')/Hierarchies('COM_YEAR')/Elements('2025')"
+		}
+	]
+}

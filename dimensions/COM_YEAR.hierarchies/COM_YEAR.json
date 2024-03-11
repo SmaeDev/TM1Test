@@ -1,0 +1,34 @@
+{
+	"@type":"Hierarchy",
+	"Name":"COM_YEAR",
+	"Elements":
+	[
+		{
+			"Name":"2022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2024",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2025",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"COM_YEAR.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229150855.json",
+		"COM_YEAR.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229152351.json",
+		"COM_YEAR.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229153754.json",
+		"COM_YEAR.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229154004.json",
+		"COM_YEAR.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229154332.json",
+		"COM_YEAR.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229155932.json",
+		"COM_YEAR.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229160138.json",
+		"COM_YEAR.subsets/Level0_DESC.json"
+	]
+}

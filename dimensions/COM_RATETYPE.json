@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"COM_RATETYPE",
+	"Hierarchies@Code.links":
+	[
+		"COM_RATETYPE.hierarchies/COM_RATETYPE.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('COM_RATETYPE')/Hierarchies('COM_RATETYPE')"
+	}
+}

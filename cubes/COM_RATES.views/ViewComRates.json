@@ -1,0 +1,19 @@
+{
+	"@type":"MDXView",
+	"Name":"ViewComRates",
+	"MDX@Code.link":"ViewComRates.mdx",
+	"Meta" : 
+	{
+		"Aliases" : {},
+		"ContextSets" : {},
+		"ExpandAboves" : 
+		{
+			"[COM_CURRENCY].[COM_CURRENCY]" : false,
+			"[COM_PERIOD].[COM_PERIOD]" : false,
+			"[COM_RATETYPE].[COM_RATETYPE]" : false,
+			"[COM_RATEVERSION].[COM_RATEVERSION]" : false,
+			"[COM_RPTCURRENCY].[COM_RPTCURRENCY]" : false,
+			"[COM_YEAR].[COM_YEAR]" : false
+		}
+	}
+}

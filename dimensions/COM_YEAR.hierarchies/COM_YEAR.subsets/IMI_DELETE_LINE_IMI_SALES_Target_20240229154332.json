@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"IMI_DELETE_LINE_IMI_SALES_Target_20240229154332",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('COM_YEAR')/Hierarchies('COM_YEAR')/Elements('2024')"
+		}
+	]
+}

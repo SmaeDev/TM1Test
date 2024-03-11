@@ -1,0 +1,17 @@
+{
+	"@type":"Subset",
+	"Name":"Reporting_Currency",
+	"Alias":"Description",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('RPTCURRENCY')/Hierarchies('RPTCURRENCY')/Elements('EUR')"
+		},
+		{
+			"@id":"Dimensions('RPTCURRENCY')/Hierarchies('RPTCURRENCY')/Elements('USD')"
+		},
+		{
+			"@id":"Dimensions('RPTCURRENCY')/Hierarchies('RPTCURRENCY')/Elements('INR')"
+		}
+	]
+}

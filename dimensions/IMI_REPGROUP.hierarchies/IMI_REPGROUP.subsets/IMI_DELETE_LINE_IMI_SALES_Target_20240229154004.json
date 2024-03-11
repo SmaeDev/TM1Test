@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"IMI_DELETE_LINE_IMI_SALES_Target_20240229154004",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('IMI_REPGROUP')/Hierarchies('IMI_REPGROUP')/Elements('NR')"
+		}
+	]
+}

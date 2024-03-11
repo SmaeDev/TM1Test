@@ -1,0 +1,21 @@
+{
+	"@type":"Hierarchy",
+	"Name":"IMI_VERSION",
+	"Elements":
+	[
+		{
+			"Name":"Current",
+			"Type":"Numeric"
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"IMI_VERSION.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229150855.json",
+		"IMI_VERSION.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229152351.json",
+		"IMI_VERSION.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229153754.json",
+		"IMI_VERSION.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229154004.json",
+		"IMI_VERSION.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229154332.json",
+		"IMI_VERSION.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229155932.json",
+		"IMI_VERSION.subsets/IMI_DELETE_LINE_IMI_SALES_Target_20240229160138.json"
+	]
+}

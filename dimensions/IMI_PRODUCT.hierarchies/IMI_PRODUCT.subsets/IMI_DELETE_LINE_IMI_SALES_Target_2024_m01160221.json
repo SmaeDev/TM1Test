@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"IMI_DELETE_LINE_IMI_SALES_Target_2024_m01160221",
+	"Expression":"{TM1FILTERBYLEVEL(TM1SUBSETALL([IMI_PRODUCT].[IMI_PRODUCT]) , 0)}"
+}

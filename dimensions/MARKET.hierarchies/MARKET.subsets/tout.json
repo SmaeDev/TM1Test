@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"tout",
+	"Alias":"Description",
+	"Expression":"{{[MARKET].[MARKET].MEMBERS}}"
+}

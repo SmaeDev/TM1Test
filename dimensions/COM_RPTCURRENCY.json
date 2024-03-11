@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"COM_RPTCURRENCY",
+	"Hierarchies@Code.links":
+	[
+		"COM_RPTCURRENCY.hierarchies/COM_RPTCURRENCY.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('COM_RPTCURRENCY')/Hierarchies('COM_RPTCURRENCY')"
+	}
+}
